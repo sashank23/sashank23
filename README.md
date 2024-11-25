@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sashank23](https://github.com/sashank23)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/sashank-garg23](www.linkedin.com/in/sashank-garg23)
 
 - 💬 Ask me about **Java, C++,Python**
 
